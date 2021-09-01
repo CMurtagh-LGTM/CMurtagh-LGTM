@@ -9,4 +9,4 @@ I like using
 - Arch Linux
 
 [![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CMurtagh-LGTM&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMurtagh-LGTM&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMurtagh-LGTM&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)-->
