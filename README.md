@@ -8,4 +8,4 @@ I like using
 - Neovim
 - Arch Linux
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CMurtagh-LGTM&show_icons=true&theme=nord)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CMurtagh-LGTM&show_icons=true&theme=nord&hide_rank=true)
