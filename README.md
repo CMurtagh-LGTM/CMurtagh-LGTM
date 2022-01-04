@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software technition that loves mathematics.
+I'm a mathematician that likes to dabble with linux.
 
 I like using
 - [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
