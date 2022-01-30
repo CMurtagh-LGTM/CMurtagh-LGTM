@@ -13,4 +13,5 @@ I like using
 
 <!--![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)-->
 
-![](/facts.svg)
+[![](/facts.svg)](https://github.com/lowlighter/metrics)
+[![](/fortune.svg)](https://github.com/lowlighter/metrics)
