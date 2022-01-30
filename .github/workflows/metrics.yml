@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Fortune
-      uses: lowlighter/metrics@latest
+      uses: lowlighter/metrics@main
       with:
         filename: fortune.svg
         token: NOT_NEEDED
@@ -27,4 +27,5 @@ jobs:
         plugin_habits: yes
         plugin_habits_facts: yes
         plugin_habits_charts: no
-        # config_timezone: Australia
+        plugin_habits_days: 30
+        config_timezone: Australia/Sydney
