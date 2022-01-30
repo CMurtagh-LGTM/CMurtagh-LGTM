@@ -11,6 +11,13 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
+    - name: Fortune
+      uses: lowlighter/metrics@latest
+      with:
+        filename: fortune.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_fortune: yes
       - name: Midly interesting facts
         uses: lowlighter/metrics@latest
         with:
@@ -20,5 +27,4 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_fortune: yes
           # config_timezone: Australia
