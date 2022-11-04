@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a mathematician that likes to dabble with linux.
-
 I like using
 - [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
