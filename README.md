@@ -10,6 +10,3 @@ I like using
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMurtagh-LGTM&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)-->
-
-[![](/facts.svg)](https://github.com/lowlighter/metrics)
-[![](/fortune.svg)](https://github.com/lowlighter/metrics)
